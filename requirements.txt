@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+numpy
+scikit-image
+matplotlib
+pyqtgraph
+pyqt5
+pillow
+ffmpeg
+path.py
